@@ -1,0 +1,10 @@
+{
+  "name": "ai-agents",
+  "version": "1.0.0",
+  "description": "24 real AI agents as Claude skills: meeting ops, email copilot, invoices, PR warden, research and more.",
+  "author": {
+    "name": "Ritvik Thakur"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/orbitwebsites-cloud/ai-agents"
+}

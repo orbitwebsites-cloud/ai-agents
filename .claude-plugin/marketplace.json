@@ -1,0 +1,16 @@
+{
+  "name": "ai-agents",
+  "owner": {
+    "name": "Ritvik Thakur"
+  },
+  "plugins": [
+    {
+      "name": "ai-agents",
+      "source": "./",
+      "description": "24 real AI agents as Claude skills."
+    }
+  ],
+  "metadata": {
+    "description": "24 real AI agents packaged as Claude skills."
+  }
+}

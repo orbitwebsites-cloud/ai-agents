@@ -11,7 +11,8 @@
   "build": "1.5 d",
   "video": "V1",
   "slug": "meeting_ops",
-  "order": 1
+  "order": 1,
+  "skill": "meeting-ops"
  },
  {
   "n": 2,
@@ -25,7 +26,8 @@
   "build": "1.5 d",
   "video": "V2",
   "slug": "email_copilot",
-  "order": 2
+  "order": 2,
+  "skill": "email-copilot"
  },
  {
   "n": 3,
@@ -39,7 +41,8 @@
   "build": "1 d",
   "video": "V3",
   "slug": "community_manager",
-  "order": 3
+  "order": 3,
+  "skill": "community-manager"
  },
  {
   "n": 10,
@@ -53,7 +56,8 @@
   "build": "1 d",
   "video": "V3",
   "slug": "topic_backlog_manager",
-  "order": 4
+  "order": 4,
+  "skill": "topic-backlog-manager"
  },
  {
   "n": 11,
@@ -67,7 +71,8 @@
   "build": "1.5 d",
   "video": "V4",
   "slug": "researched_script_builder",
-  "order": 5
+  "order": 5,
+  "skill": "researched-script-builder"
  },
  {
   "n": 12,
@@ -81,7 +86,8 @@
   "build": "1 d",
   "video": "V4",
   "slug": "publish_prep",
-  "order": 6
+  "order": 6,
+  "skill": "publish-prep"
  },
  {
   "n": 15,
@@ -95,7 +101,8 @@
   "build": "1 d",
   "video": "V4",
   "slug": "content_distributor",
-  "order": 7
+  "order": 7,
+  "skill": "content-distributor"
  },
  {
   "n": 16,
@@ -109,7 +116,8 @@
   "build": "1 d",
   "video": "V4",
   "slug": "channel_intelligence",
-  "order": 8
+  "order": 8,
+  "skill": "channel-intelligence"
  },
  {
   "n": 8,
@@ -123,7 +131,8 @@
   "build": "1 d",
   "video": "V5",
   "slug": "invoice_creator",
-  "order": 9
+  "order": 9,
+  "skill": "invoice-creator"
  },
  {
   "n": 13,
@@ -137,7 +146,8 @@
   "build": "1 d",
   "video": "V5",
   "slug": "cash_flow_command",
-  "order": 10
+  "order": 10,
+  "skill": "cash-flow-command"
  },
  {
   "n": 17,
@@ -151,7 +161,8 @@
   "build": "1 d",
   "video": "V6",
   "slug": "expense_ledger",
-  "order": 11
+  "order": 11,
+  "skill": "expense-ledger"
  },
  {
   "n": 21,
@@ -165,7 +176,8 @@
   "build": "1 d",
   "video": "V6",
   "slug": "tax_prep_assistant",
-  "order": 12
+  "order": 12,
+  "skill": "tax-prep-assistant"
  },
  {
   "n": 5,
@@ -179,7 +191,8 @@
   "build": "0.5 d",
   "video": "V7",
   "slug": "github_pr_warden",
-  "order": 13
+  "order": 13,
+  "skill": "github-pr-warden"
  },
  {
   "n": 6,
@@ -193,7 +206,8 @@
   "build": "0.5 d",
   "video": "V7",
   "slug": "issue_triage_agent",
-  "order": 14
+  "order": 14,
+  "skill": "issue-triage-agent"
  },
  {
   "n": 14,
@@ -207,7 +221,8 @@
   "build": "0.5 d",
   "video": "V8",
   "slug": "weekly_review",
-  "order": 15
+  "order": 15,
+  "skill": "weekly-review"
  },
  {
   "n": 9,
@@ -221,7 +236,8 @@
   "build": "1.5 d",
   "video": "V8",
   "slug": "cold_outreach_sequencer",
-  "order": 16
+  "order": 16,
+  "skill": "cold-outreach-sequencer"
  },
  {
   "n": 4,
@@ -235,7 +251,8 @@
   "build": "1 d",
   "video": "V9",
   "slug": "meeting_prep_dossier",
-  "order": 17
+  "order": 17,
+  "skill": "meeting-prep-dossier"
  },
  {
   "n": 7,
@@ -249,7 +266,8 @@
   "build": "1 d",
   "video": "V9",
   "slug": "competitor_radar",
-  "order": 18
+  "order": 18,
+  "skill": "competitor-radar"
  },
  {
   "n": 19,
@@ -263,7 +281,8 @@
   "build": "1 d",
   "video": "V10",
   "slug": "contract_nda_guard",
-  "order": 19
+  "order": 19,
+  "skill": "contract-nda-guard"
  },
  {
   "n": 20,
@@ -277,7 +296,8 @@
   "build": "0.5 d",
   "video": "V10",
   "slug": "renewal_sentinel",
-  "order": 20
+  "order": 20,
+  "skill": "renewal-sentinel"
  },
  {
   "n": 22,
@@ -291,7 +311,8 @@
   "build": "1 d",
   "video": "V11",
   "slug": "deep_research_agent",
-  "order": 21
+  "order": 21,
+  "skill": "deep-research-agent"
  },
  {
   "n": 18,
@@ -305,7 +326,8 @@
   "build": "1 d",
   "video": "V11",
   "slug": "read_it_later_digester",
-  "order": 22
+  "order": 22,
+  "skill": "read-it-later-digester"
  },
  {
   "n": 23,
@@ -319,7 +341,8 @@
   "build": "1.5 d",
   "video": "V12",
   "slug": "document_studio",
-  "order": 23
+  "order": 23,
+  "skill": "document-studio"
  },
  {
   "n": 24,
@@ -333,6 +356,7 @@
   "build": "1 d",
   "video": "V12",
   "slug": "onboarding_orchestrator",
-  "order": 24
+  "order": 24,
+  "skill": "onboarding-orchestrator"
  }
 ]
